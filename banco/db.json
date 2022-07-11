@@ -1,0 +1,24 @@
+{
+    "contatos":[
+       {
+          "nome":"Albert",
+          "numero":"9 9999-9999",
+          "email":"albert@email.com",
+          "endereco":"Av Brasil"
+             
+       },
+       {
+        "nome":"Isaac",
+        "numero":"9 8888-8888",
+        "email":"isaac@email.com",
+        "endereco":"Av Brasil"
+           
+     },
+     {
+        "nome":"Charles",
+        "numero":"9 7777-7777",
+        "email":"charles@email.com",
+        "endereco":"Av Brasil"        
+     }
+    ]
+ }
